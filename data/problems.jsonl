@@ -1,0 +1,8 @@
+{"id": "m001", "question": "计算 1/2 + 1/3 的值。", "answer": "5/6", "knowledge": "分数运算", "difficulty": "easy"}
+{"id": "m002", "question": "解方程 x^2 - 3x + 2 = 0。", "answer": "x=1 或 x=2", "knowledge": "一元二次方程", "difficulty": "easy"}
+{"id": "m003", "question": "一个数的 3 倍加 5 等于 20，这个数是多少？", "answer": "5", "knowledge": "一元一次方程", "difficulty": "easy"}
+{"id": "m004", "question": "计算 0.1 + 0.2 的值（精确到小数）。", "answer": "0.3", "knowledge": "小数运算", "difficulty": "medium"}
+{"id": "m005", "question": "已知 f(x) = 2x + 1，求 f(3)。", "answer": "7", "knowledge": "函数求值", "difficulty": "easy"}
+{"id": "m006", "question": "一个直角三角形两直角边长为 3 和 4，斜边长为多少？", "answer": "5", "knowledge": "勾股定理", "difficulty": "easy"}
+{"id": "m007", "question": "计算 2^10 的值。", "answer": "1024", "knowledge": "指数运算", "difficulty": "easy"}
+{"id": "m008", "question": "若 5 个数的平均数是 12，它们的和是多少？", "answer": "60", "knowledge": "平均数", "difficulty": "easy"}

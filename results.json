@@ -1,0 +1,164 @@
+[
+  {
+    "model": "oracle",
+    "acc": 1.0,
+    "rows": [
+      {
+        "id": "m001",
+        "pred": "5/6",
+        "gold": "5/6",
+        "ok": true
+      },
+      {
+        "id": "m002",
+        "pred": "x=1 或 x=2",
+        "gold": "x=1 或 x=2",
+        "ok": true
+      },
+      {
+        "id": "m003",
+        "pred": "5",
+        "gold": "5",
+        "ok": true
+      },
+      {
+        "id": "m004",
+        "pred": "0.3",
+        "gold": "0.3",
+        "ok": true
+      },
+      {
+        "id": "m005",
+        "pred": "7",
+        "gold": "7",
+        "ok": true
+      },
+      {
+        "id": "m006",
+        "pred": "5",
+        "gold": "5",
+        "ok": true
+      },
+      {
+        "id": "m007",
+        "pred": "1024",
+        "gold": "1024",
+        "ok": true
+      },
+      {
+        "id": "m008",
+        "pred": "60",
+        "gold": "60",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "model": "careless",
+    "acc": 0.75,
+    "rows": [
+      {
+        "id": "m001",
+        "pred": "0.8333",
+        "gold": "5/6",
+        "ok": false
+      },
+      {
+        "id": "m002",
+        "pred": "x=1 或 x=2",
+        "gold": "x=1 或 x=2",
+        "ok": true
+      },
+      {
+        "id": "m003",
+        "pred": "4",
+        "gold": "5",
+        "ok": false
+      },
+      {
+        "id": "m004",
+        "pred": "0.3",
+        "gold": "0.3",
+        "ok": true
+      },
+      {
+        "id": "m005",
+        "pred": "7",
+        "gold": "7",
+        "ok": true
+      },
+      {
+        "id": "m006",
+        "pred": "5",
+        "gold": "5",
+        "ok": true
+      },
+      {
+        "id": "m007",
+        "pred": "1024",
+        "gold": "1024",
+        "ok": true
+      },
+      {
+        "id": "m008",
+        "pred": "60",
+        "gold": "60",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "model": "latex_style",
+    "acc": 1.0,
+    "rows": [
+      {
+        "id": "m001",
+        "pred": "\\frac{5}{6}",
+        "gold": "5/6",
+        "ok": true
+      },
+      {
+        "id": "m002",
+        "pred": "x=1 或 x=2",
+        "gold": "x=1 或 x=2",
+        "ok": true
+      },
+      {
+        "id": "m003",
+        "pred": "5",
+        "gold": "5",
+        "ok": true
+      },
+      {
+        "id": "m004",
+        "pred": "0.3",
+        "gold": "0.3",
+        "ok": true
+      },
+      {
+        "id": "m005",
+        "pred": "7",
+        "gold": "7",
+        "ok": true
+      },
+      {
+        "id": "m006",
+        "pred": "5",
+        "gold": "5",
+        "ok": true
+      },
+      {
+        "id": "m007",
+        "pred": "1024",
+        "gold": "1024",
+        "ok": true
+      },
+      {
+        "id": "m008",
+        "pred": "60",
+        "gold": "60",
+        "ok": true
+      }
+    ]
+  }
+]
